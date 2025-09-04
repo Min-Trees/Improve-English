@@ -1,0 +1,3107 @@
+[
+  {
+    "day": 1,
+    "topic": "Family",
+    "vocabulary": [
+      {
+        "word": "father",
+        "translation": "cha",
+        "example": "My father is kind."
+      },
+      {
+        "word": "mother",
+        "translation": "mẹ",
+        "example": "My mother is kind."
+      },
+      {
+        "word": "brother",
+        "translation": "anh trai",
+        "example": "My brother is kind."
+      },
+      {
+        "word": "sister",
+        "translation": "chị gái",
+        "example": "My sister is kind."
+      },
+      {
+        "word": "grandfather",
+        "translation": "ông",
+        "example": "My grandfather is kind."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=3vhLb8h6eJg",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 2,
+    "topic": "Family",
+    "vocabulary": [
+      {
+        "word": "grandmother",
+        "translation": "bà",
+        "example": "My grandmother is kind."
+      },
+      {
+        "word": "son",
+        "translation": "con trai",
+        "example": "My son is kind."
+      },
+      {
+        "word": "daughter",
+        "translation": "con gái",
+        "example": "My daughter is kind."
+      },
+      {
+        "word": "uncle",
+        "translation": "chú/ bác",
+        "example": "My uncle is kind."
+      },
+      {
+        "word": "aunt",
+        "translation": "cô/ dì",
+        "example": "My aunt is kind."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=3vhLb8h6eJg",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 3,
+    "topic": "Family",
+    "vocabulary": [
+      {
+        "word": "cousin",
+        "translation": "anh chị em họ",
+        "example": "My cousin is kind."
+      },
+      {
+        "word": "nephew",
+        "translation": "cháu trai",
+        "example": "My nephew is kind."
+      },
+      {
+        "word": "niece",
+        "translation": "cháu gái",
+        "example": "My niece is kind."
+      },
+      {
+        "word": "husband",
+        "translation": "chồng",
+        "example": "My husband is kind."
+      },
+      {
+        "word": "wife",
+        "translation": "vợ",
+        "example": "My wife is kind."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=3vhLb8h6eJg",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 4,
+    "topic": "Family",
+    "vocabulary": [
+      {
+        "word": "parents",
+        "translation": "bố mẹ",
+        "example": "My parents is kind."
+      },
+      {
+        "word": "child",
+        "translation": "đứa trẻ",
+        "example": "My child is kind."
+      },
+      {
+        "word": "relative",
+        "translation": "họ hàng",
+        "example": "My relative is kind."
+      },
+      {
+        "word": "family",
+        "translation": "gia đình",
+        "example": "My family is kind."
+      },
+      {
+        "word": "baby",
+        "translation": "em bé",
+        "example": "My baby is kind."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=3vhLb8h6eJg",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 5,
+    "topic": "Family",
+    "vocabulary": [
+      {
+        "word": "teenager",
+        "translation": "thiếu niên",
+        "example": "My teenager is kind."
+      },
+      {
+        "word": "adult",
+        "translation": "người lớn",
+        "example": "My adult is kind."
+      },
+      {
+        "word": "spouse",
+        "translation": "vợ/chồng",
+        "example": "My spouse is kind."
+      },
+      {
+        "word": "twins",
+        "translation": "cặp song sinh",
+        "example": "My twins is kind."
+      },
+      {
+        "word": "generation",
+        "translation": "thế hệ",
+        "example": "My generation is kind."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=3vhLb8h6eJg",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 6,
+    "topic": "Food",
+    "vocabulary": [
+      {
+        "word": "rice",
+        "translation": "cơm",
+        "example": "I eat rice every day."
+      },
+      {
+        "word": "bread",
+        "translation": "bánh mì",
+        "example": "I eat bread every day."
+      },
+      {
+        "word": "chicken",
+        "translation": "thịt gà",
+        "example": "I eat chicken every day."
+      },
+      {
+        "word": "fish",
+        "translation": "cá",
+        "example": "I eat fish every day."
+      },
+      {
+        "word": "vegetable",
+        "translation": "rau",
+        "example": "I eat vegetable every day."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=4V86xHzqS8c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 7,
+    "topic": "Food",
+    "vocabulary": [
+      {
+        "word": "fruit",
+        "translation": "trái cây",
+        "example": "I eat fruit every day."
+      },
+      {
+        "word": "soup",
+        "translation": "súp",
+        "example": "I eat soup every day."
+      },
+      {
+        "word": "milk",
+        "translation": "sữa",
+        "example": "I eat milk every day."
+      },
+      {
+        "word": "meat",
+        "translation": "thịt",
+        "example": "I eat meat every day."
+      },
+      {
+        "word": "water",
+        "translation": "nước",
+        "example": "I eat water every day."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=4V86xHzqS8c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 8,
+    "topic": "Food",
+    "vocabulary": [
+      {
+        "word": "salad",
+        "translation": "rau trộn",
+        "example": "I eat salad every day."
+      },
+      {
+        "word": "juice",
+        "translation": "nước ép",
+        "example": "I eat juice every day."
+      },
+      {
+        "word": "egg",
+        "translation": "trứng",
+        "example": "I eat egg every day."
+      },
+      {
+        "word": "noodle",
+        "translation": "mì",
+        "example": "I eat noodle every day."
+      },
+      {
+        "word": "sugar",
+        "translation": "đường",
+        "example": "I eat sugar every day."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=4V86xHzqS8c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 9,
+    "topic": "Food",
+    "vocabulary": [
+      {
+        "word": "salt",
+        "translation": "muối",
+        "example": "I eat salt every day."
+      },
+      {
+        "word": "pepper",
+        "translation": "tiêu",
+        "example": "I eat pepper every day."
+      },
+      {
+        "word": "oil",
+        "translation": "dầu",
+        "example": "I eat oil every day."
+      },
+      {
+        "word": "cheese",
+        "translation": "pho mát",
+        "example": "I eat cheese every day."
+      },
+      {
+        "word": "coffee",
+        "translation": "cà phê",
+        "example": "I eat coffee every day."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=4V86xHzqS8c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 10,
+    "topic": "Food",
+    "vocabulary": [
+      {
+        "word": "tea",
+        "translation": "trà",
+        "example": "I eat tea every day."
+      },
+      {
+        "word": "cake",
+        "translation": "bánh",
+        "example": "I eat cake every day."
+      },
+      {
+        "word": "butter",
+        "translation": "bơ",
+        "example": "I eat butter every day."
+      },
+      {
+        "word": "potato",
+        "translation": "khoai tây",
+        "example": "I eat potato every day."
+      },
+      {
+        "word": "tomato",
+        "translation": "cà chua",
+        "example": "I eat tomato every day."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=4V86xHzqS8c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 11,
+    "topic": "Travel",
+    "vocabulary": [
+      {
+        "word": "plane",
+        "translation": "máy bay",
+        "example": "We need a plane when we travel."
+      },
+      {
+        "word": "train",
+        "translation": "tàu hỏa",
+        "example": "We need a train when we travel."
+      },
+      {
+        "word": "bus",
+        "translation": "xe buýt",
+        "example": "We need a bus when we travel."
+      },
+      {
+        "word": "car",
+        "translation": "xe hơi",
+        "example": "We need a car when we travel."
+      },
+      {
+        "word": "ticket",
+        "translation": "vé",
+        "example": "We need a ticket when we travel."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=5YQoF-nN-3c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 12,
+    "topic": "Travel",
+    "vocabulary": [
+      {
+        "word": "passport",
+        "translation": "hộ chiếu",
+        "example": "We need a passport when we travel."
+      },
+      {
+        "word": "luggage",
+        "translation": "hành lý",
+        "example": "We need a luggage when we travel."
+      },
+      {
+        "word": "hotel",
+        "translation": "khách sạn",
+        "example": "We need a hotel when we travel."
+      },
+      {
+        "word": "map",
+        "translation": "bản đồ",
+        "example": "We need a map when we travel."
+      },
+      {
+        "word": "guide",
+        "translation": "hướng dẫn viên",
+        "example": "We need a guide when we travel."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=5YQoF-nN-3c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 13,
+    "topic": "Travel",
+    "vocabulary": [
+      {
+        "word": "airport",
+        "translation": "sân bay",
+        "example": "We need a airport when we travel."
+      },
+      {
+        "word": "station",
+        "translation": "nhà ga",
+        "example": "We need a station when we travel."
+      },
+      {
+        "word": "taxi",
+        "translation": "xe taxi",
+        "example": "We need a taxi when we travel."
+      },
+      {
+        "word": "road",
+        "translation": "con đường",
+        "example": "We need a road when we travel."
+      },
+      {
+        "word": "journey",
+        "translation": "chuyến đi",
+        "example": "We need a journey when we travel."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=5YQoF-nN-3c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 14,
+    "topic": "Travel",
+    "vocabulary": [
+      {
+        "word": "tourist",
+        "translation": "khách du lịch",
+        "example": "We need a tourist when we travel."
+      },
+      {
+        "word": "trip",
+        "translation": "chuyến du lịch",
+        "example": "We need a trip when we travel."
+      },
+      {
+        "word": "visa",
+        "translation": "thị thực",
+        "example": "We need a visa when we travel."
+      },
+      {
+        "word": "backpack",
+        "translation": "ba lô",
+        "example": "We need a backpack when we travel."
+      },
+      {
+        "word": "cruise",
+        "translation": "chuyến du thuyền",
+        "example": "We need a cruise when we travel."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=5YQoF-nN-3c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 15,
+    "topic": "Travel",
+    "vocabulary": [
+      {
+        "word": "ferry",
+        "translation": "phà",
+        "example": "We need a ferry when we travel."
+      },
+      {
+        "word": "subway",
+        "translation": "tàu điện ngầm",
+        "example": "We need a subway when we travel."
+      },
+      {
+        "word": "departure",
+        "translation": "khởi hành",
+        "example": "We need a departure when we travel."
+      },
+      {
+        "word": "arrival",
+        "translation": "đến nơi",
+        "example": "We need a arrival when we travel."
+      },
+      {
+        "word": "reservation",
+        "translation": "đặt chỗ",
+        "example": "We need a reservation when we travel."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=5YQoF-nN-3c",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 16,
+    "topic": "School",
+    "vocabulary": [
+      {
+        "word": "student",
+        "translation": "học sinh",
+        "example": "The student is in the classroom."
+      },
+      {
+        "word": "teacher",
+        "translation": "giáo viên",
+        "example": "The teacher is in the classroom."
+      },
+      {
+        "word": "class",
+        "translation": "lớp học",
+        "example": "The class is in the classroom."
+      },
+      {
+        "word": "lesson",
+        "translation": "bài học",
+        "example": "The lesson is in the classroom."
+      },
+      {
+        "word": "homework",
+        "translation": "bài tập về nhà",
+        "example": "The homework is in the classroom."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=6Zs5wu-LE2o",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 17,
+    "topic": "School",
+    "vocabulary": [
+      {
+        "word": "exam",
+        "translation": "kỳ thi",
+        "example": "The exam is in the classroom."
+      },
+      {
+        "word": "library",
+        "translation": "thư viện",
+        "example": "The library is in the classroom."
+      },
+      {
+        "word": "book",
+        "translation": "sách",
+        "example": "The book is in the classroom."
+      },
+      {
+        "word": "pencil",
+        "translation": "bút chì",
+        "example": "The pencil is in the classroom."
+      },
+      {
+        "word": "pen",
+        "translation": "bút mực",
+        "example": "The pen is in the classroom."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=6Zs5wu-LE2o",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 18,
+    "topic": "School",
+    "vocabulary": [
+      {
+        "word": "notebook",
+        "translation": "vở",
+        "example": "The notebook is in the classroom."
+      },
+      {
+        "word": "desk",
+        "translation": "bàn học",
+        "example": "The desk is in the classroom."
+      },
+      {
+        "word": "board",
+        "translation": "bảng",
+        "example": "The board is in the classroom."
+      },
+      {
+        "word": "subject",
+        "translation": "môn học",
+        "example": "The subject is in the classroom."
+      },
+      {
+        "word": "math",
+        "translation": "toán",
+        "example": "The math is in the classroom."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=6Zs5wu-LE2o",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 19,
+    "topic": "School",
+    "vocabulary": [
+      {
+        "word": "science",
+        "translation": "khoa học",
+        "example": "The science is in the classroom."
+      },
+      {
+        "word": "history",
+        "translation": "lịch sử",
+        "example": "The history is in the classroom."
+      },
+      {
+        "word": "geography",
+        "translation": "địa lý",
+        "example": "The geography is in the classroom."
+      },
+      {
+        "word": "biology",
+        "translation": "sinh học",
+        "example": "The biology is in the classroom."
+      },
+      {
+        "word": "chemistry",
+        "translation": "hóa học",
+        "example": "The chemistry is in the classroom."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=6Zs5wu-LE2o",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 20,
+    "topic": "School",
+    "vocabulary": [
+      {
+        "word": "grade",
+        "translation": "điểm số",
+        "example": "The grade is in the classroom."
+      },
+      {
+        "word": "uniform",
+        "translation": "đồng phục",
+        "example": "The uniform is in the classroom."
+      },
+      {
+        "word": "recess",
+        "translation": "giờ ra chơi",
+        "example": "The recess is in the classroom."
+      },
+      {
+        "word": "schedule",
+        "translation": "thời khóa biểu",
+        "example": "The schedule is in the classroom."
+      },
+      {
+        "word": "campus",
+        "translation": "khuôn viên trường",
+        "example": "The campus is in the classroom."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=6Zs5wu-LE2o",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 21,
+    "topic": "Hobbies",
+    "vocabulary": [
+      {
+        "word": "music",
+        "translation": "âm nhạc",
+        "example": "I enjoy music in my free time."
+      },
+      {
+        "word": "painting",
+        "translation": "vẽ tranh",
+        "example": "I enjoy painting in my free time."
+      },
+      {
+        "word": "dancing",
+        "translation": "nhảy",
+        "example": "I enjoy dancing in my free time."
+      },
+      {
+        "word": "singing",
+        "translation": "hát",
+        "example": "I enjoy singing in my free time."
+      },
+      {
+        "word": "reading",
+        "translation": "đọc",
+        "example": "I enjoy reading in my free time."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=7aM4u_GagWc",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 22,
+    "topic": "Hobbies",
+    "vocabulary": [
+      {
+        "word": "writing",
+        "translation": "viết",
+        "example": "I enjoy writing in my free time."
+      },
+      {
+        "word": "gardening",
+        "translation": "làm vườn",
+        "example": "I enjoy gardening in my free time."
+      },
+      {
+        "word": "cooking",
+        "translation": "nấu ăn",
+        "example": "I enjoy cooking in my free time."
+      },
+      {
+        "word": "fishing",
+        "translation": "câu cá",
+        "example": "I enjoy fishing in my free time."
+      },
+      {
+        "word": "hiking",
+        "translation": "đi bộ đường dài",
+        "example": "I enjoy hiking in my free time."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=7aM4u_GagWc",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 23,
+    "topic": "Hobbies",
+    "vocabulary": [
+      {
+        "word": "cycling",
+        "translation": "đạp xe",
+        "example": "I enjoy cycling in my free time."
+      },
+      {
+        "word": "swimming",
+        "translation": "bơi",
+        "example": "I enjoy swimming in my free time."
+      },
+      {
+        "word": "photography",
+        "translation": "nhiếp ảnh",
+        "example": "I enjoy photography in my free time."
+      },
+      {
+        "word": "drawing",
+        "translation": "vẽ",
+        "example": "I enjoy drawing in my free time."
+      },
+      {
+        "word": "knitting",
+        "translation": "đan len",
+        "example": "I enjoy knitting in my free time."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=7aM4u_GagWc",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 24,
+    "topic": "Hobbies",
+    "vocabulary": [
+      {
+        "word": "gaming",
+        "translation": "chơi game",
+        "example": "I enjoy gaming in my free time."
+      },
+      {
+        "word": "traveling",
+        "translation": "du lịch",
+        "example": "I enjoy traveling in my free time."
+      },
+      {
+        "word": "movies",
+        "translation": "phim ảnh",
+        "example": "I enjoy movies in my free time."
+      },
+      {
+        "word": "chess",
+        "translation": "cờ vua",
+        "example": "I enjoy chess in my free time."
+      },
+      {
+        "word": "yoga",
+        "translation": "yoga",
+        "example": "I enjoy yoga in my free time."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=7aM4u_GagWc",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 25,
+    "topic": "Hobbies",
+    "vocabulary": [
+      {
+        "word": "jogging",
+        "translation": "chạy bộ",
+        "example": "I enjoy jogging in my free time."
+      },
+      {
+        "word": "baking",
+        "translation": "nướng bánh",
+        "example": "I enjoy baking in my free time."
+      },
+      {
+        "word": "crafting",
+        "translation": "làm đồ thủ công",
+        "example": "I enjoy crafting in my free time."
+      },
+      {
+        "word": "surfing",
+        "translation": "lướt sóng",
+        "example": "I enjoy surfing in my free time."
+      },
+      {
+        "word": "collecting",
+        "translation": "sưu tầm",
+        "example": "I enjoy collecting in my free time."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=7aM4u_GagWc",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 26,
+    "topic": "Work",
+    "vocabulary": [
+      {
+        "word": "office",
+        "translation": "văn phòng",
+        "example": "My office is very important at work."
+      },
+      {
+        "word": "job",
+        "translation": "công việc",
+        "example": "My job is very important at work."
+      },
+      {
+        "word": "career",
+        "translation": "sự nghiệp",
+        "example": "My career is very important at work."
+      },
+      {
+        "word": "colleague",
+        "translation": "đồng nghiệp",
+        "example": "My colleague is very important at work."
+      },
+      {
+        "word": "boss",
+        "translation": "sếp",
+        "example": "My boss is very important at work."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=8bL1sV1qh7s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 27,
+    "topic": "Work",
+    "vocabulary": [
+      {
+        "word": "meeting",
+        "translation": "cuộc họp",
+        "example": "My meeting is very important at work."
+      },
+      {
+        "word": "salary",
+        "translation": "lương",
+        "example": "My salary is very important at work."
+      },
+      {
+        "word": "project",
+        "translation": "dự án",
+        "example": "My project is very important at work."
+      },
+      {
+        "word": "deadline",
+        "translation": "hạn chót",
+        "example": "My deadline is very important at work."
+      },
+      {
+        "word": "resume",
+        "translation": "sơ yếu lý lịch",
+        "example": "My resume is very important at work."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=8bL1sV1qh7s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 28,
+    "topic": "Work",
+    "vocabulary": [
+      {
+        "word": "interview",
+        "translation": "phỏng vấn",
+        "example": "My interview is very important at work."
+      },
+      {
+        "word": "skill",
+        "translation": "kỹ năng",
+        "example": "My skill is very important at work."
+      },
+      {
+        "word": "company",
+        "translation": "công ty",
+        "example": "My company is very important at work."
+      },
+      {
+        "word": "worker",
+        "translation": "người lao động",
+        "example": "My worker is very important at work."
+      },
+      {
+        "word": "manager",
+        "translation": "quản lý",
+        "example": "My manager is very important at work."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=8bL1sV1qh7s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 29,
+    "topic": "Work",
+    "vocabulary": [
+      {
+        "word": "schedule",
+        "translation": "lịch trình",
+        "example": "My schedule is very important at work."
+      },
+      {
+        "word": "task",
+        "translation": "nhiệm vụ",
+        "example": "My task is very important at work."
+      },
+      {
+        "word": "report",
+        "translation": "báo cáo",
+        "example": "My report is very important at work."
+      },
+      {
+        "word": "contract",
+        "translation": "hợp đồng",
+        "example": "My contract is very important at work."
+      },
+      {
+        "word": "promotion",
+        "translation": "thăng chức",
+        "example": "My promotion is very important at work."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=8bL1sV1qh7s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 30,
+    "topic": "Work",
+    "vocabulary": [
+      {
+        "word": "break",
+        "translation": "giải lao",
+        "example": "My break is very important at work."
+      },
+      {
+        "word": "team",
+        "translation": "nhóm",
+        "example": "My team is very important at work."
+      },
+      {
+        "word": "overtime",
+        "translation": "làm thêm giờ",
+        "example": "My overtime is very important at work."
+      },
+      {
+        "word": "training",
+        "translation": "đào tạo",
+        "example": "My training is very important at work."
+      },
+      {
+        "word": "workplace",
+        "translation": "nơi làm việc",
+        "example": "My workplace is very important at work."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=8bL1sV1qh7s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 31,
+    "topic": "Shopping",
+    "vocabulary": [
+      {
+        "word": "store",
+        "translation": "cửa hàng",
+        "example": "This store is useful when shopping."
+      },
+      {
+        "word": "market",
+        "translation": "chợ",
+        "example": "This market is useful when shopping."
+      },
+      {
+        "word": "price",
+        "translation": "giá",
+        "example": "This price is useful when shopping."
+      },
+      {
+        "word": "discount",
+        "translation": "giảm giá",
+        "example": "This discount is useful when shopping."
+      },
+      {
+        "word": "sale",
+        "translation": "đợt bán giảm",
+        "example": "This sale is useful when shopping."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=9cN7eUe3rD8",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 32,
+    "topic": "Shopping",
+    "vocabulary": [
+      {
+        "word": "cashier",
+        "translation": "thu ngân",
+        "example": "This cashier is useful when shopping."
+      },
+      {
+        "word": "customer",
+        "translation": "khách hàng",
+        "example": "This customer is useful when shopping."
+      },
+      {
+        "word": "basket",
+        "translation": "giỏ",
+        "example": "This basket is useful when shopping."
+      },
+      {
+        "word": "cart",
+        "translation": "xe đẩy",
+        "example": "This cart is useful when shopping."
+      },
+      {
+        "word": "product",
+        "translation": "sản phẩm",
+        "example": "This product is useful when shopping."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=9cN7eUe3rD8",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 33,
+    "topic": "Shopping",
+    "vocabulary": [
+      {
+        "word": "brand",
+        "translation": "thương hiệu",
+        "example": "This brand is useful when shopping."
+      },
+      {
+        "word": "quality",
+        "translation": "chất lượng",
+        "example": "This quality is useful when shopping."
+      },
+      {
+        "word": "receipt",
+        "translation": "hóa đơn",
+        "example": "This receipt is useful when shopping."
+      },
+      {
+        "word": "exchange",
+        "translation": "đổi hàng",
+        "example": "This exchange is useful when shopping."
+      },
+      {
+        "word": "refund",
+        "translation": "hoàn tiền",
+        "example": "This refund is useful when shopping."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=9cN7eUe3rD8",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 34,
+    "topic": "Shopping",
+    "vocabulary": [
+      {
+        "word": "size",
+        "translation": "kích cỡ",
+        "example": "This size is useful when shopping."
+      },
+      {
+        "word": "color",
+        "translation": "màu sắc",
+        "example": "This color is useful when shopping."
+      },
+      {
+        "word": "style",
+        "translation": "phong cách",
+        "example": "This style is useful when shopping."
+      },
+      {
+        "word": "fashion",
+        "translation": "thời trang",
+        "example": "This fashion is useful when shopping."
+      },
+      {
+        "word": "bargain",
+        "translation": "mặc cả",
+        "example": "This bargain is useful when shopping."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=9cN7eUe3rD8",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 35,
+    "topic": "Shopping",
+    "vocabulary": [
+      {
+        "word": "shop",
+        "translation": "mua sắm",
+        "example": "This shop is useful when shopping."
+      },
+      {
+        "word": "mall",
+        "translation": "trung tâm thương mại",
+        "example": "This mall is useful when shopping."
+      },
+      {
+        "word": "fitting",
+        "translation": "phòng thử đồ",
+        "example": "This fitting is useful when shopping."
+      },
+      {
+        "word": "delivery",
+        "translation": "giao hàng",
+        "example": "This delivery is useful when shopping."
+      },
+      {
+        "word": "online",
+        "translation": "trực tuyến",
+        "example": "This online is useful when shopping."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=9cN7eUe3rD8",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 36,
+    "topic": "Health",
+    "vocabulary": [
+      {
+        "word": "doctor",
+        "translation": "bác sĩ",
+        "example": "The doctor helps my health."
+      },
+      {
+        "word": "nurse",
+        "translation": "y tá",
+        "example": "The nurse helps my health."
+      },
+      {
+        "word": "hospital",
+        "translation": "bệnh viện",
+        "example": "The hospital helps my health."
+      },
+      {
+        "word": "clinic",
+        "translation": "phòng khám",
+        "example": "The clinic helps my health."
+      },
+      {
+        "word": "medicine",
+        "translation": "thuốc",
+        "example": "The medicine helps my health."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=AdE4w_xFe2E",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 37,
+    "topic": "Health",
+    "vocabulary": [
+      {
+        "word": "treatment",
+        "translation": "điều trị",
+        "example": "The treatment helps my health."
+      },
+      {
+        "word": "disease",
+        "translation": "bệnh",
+        "example": "The disease helps my health."
+      },
+      {
+        "word": "symptom",
+        "translation": "triệu chứng",
+        "example": "The symptom helps my health."
+      },
+      {
+        "word": "vaccine",
+        "translation": "vắc xin",
+        "example": "The vaccine helps my health."
+      },
+      {
+        "word": "exercise",
+        "translation": "tập thể dục",
+        "example": "The exercise helps my health."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=AdE4w_xFe2E",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 38,
+    "topic": "Health",
+    "vocabulary": [
+      {
+        "word": "diet",
+        "translation": "chế độ ăn",
+        "example": "The diet helps my health."
+      },
+      {
+        "word": "stress",
+        "translation": "căng thẳng",
+        "example": "The stress helps my health."
+      },
+      {
+        "word": "sleep",
+        "translation": "giấc ngủ",
+        "example": "The sleep helps my health."
+      },
+      {
+        "word": "injury",
+        "translation": "chấn thương",
+        "example": "The injury helps my health."
+      },
+      {
+        "word": "pain",
+        "translation": "đau",
+        "example": "The pain helps my health."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=AdE4w_xFe2E",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 39,
+    "topic": "Health",
+    "vocabulary": [
+      {
+        "word": "blood",
+        "translation": "máu",
+        "example": "The blood helps my health."
+      },
+      {
+        "word": "heart",
+        "translation": "trái tim",
+        "example": "The heart helps my health."
+      },
+      {
+        "word": "brain",
+        "translation": "não",
+        "example": "The brain helps my health."
+      },
+      {
+        "word": "bone",
+        "translation": "xương",
+        "example": "The bone helps my health."
+      },
+      {
+        "word": "muscle",
+        "translation": "cơ",
+        "example": "The muscle helps my health."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=AdE4w_xFe2E",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 40,
+    "topic": "Health",
+    "vocabulary": [
+      {
+        "word": "tooth",
+        "translation": "răng",
+        "example": "The tooth helps my health."
+      },
+      {
+        "word": "skin",
+        "translation": "da",
+        "example": "The skin helps my health."
+      },
+      {
+        "word": "health",
+        "translation": "sức khỏe",
+        "example": "The health helps my health."
+      },
+      {
+        "word": "recovery",
+        "translation": "hồi phục",
+        "example": "The recovery helps my health."
+      },
+      {
+        "word": "checkup",
+        "translation": "kiểm tra sức khỏe",
+        "example": "The checkup helps my health."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=AdE4w_xFe2E",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 41,
+    "topic": "Environment",
+    "vocabulary": [
+      {
+        "word": "nature",
+        "translation": "thiên nhiên",
+        "example": "Protect the nature for the future."
+      },
+      {
+        "word": "forest",
+        "translation": "rừng",
+        "example": "Protect the forest for the future."
+      },
+      {
+        "word": "river",
+        "translation": "sông",
+        "example": "Protect the river for the future."
+      },
+      {
+        "word": "mountain",
+        "translation": "núi",
+        "example": "Protect the mountain for the future."
+      },
+      {
+        "word": "ocean",
+        "translation": "đại dương",
+        "example": "Protect the ocean for the future."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=BfF6q1Wz1sE",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 42,
+    "topic": "Environment",
+    "vocabulary": [
+      {
+        "word": "climate",
+        "translation": "khí hậu",
+        "example": "Protect the climate for the future."
+      },
+      {
+        "word": "weather",
+        "translation": "thời tiết",
+        "example": "Protect the weather for the future."
+      },
+      {
+        "word": "pollution",
+        "translation": "ô nhiễm",
+        "example": "Protect the pollution for the future."
+      },
+      {
+        "word": "recycle",
+        "translation": "tái chế",
+        "example": "Protect the recycle for the future."
+      },
+      {
+        "word": "waste",
+        "translation": "rác thải",
+        "example": "Protect the waste for the future."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=BfF6q1Wz1sE",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 43,
+    "topic": "Environment",
+    "vocabulary": [
+      {
+        "word": "energy",
+        "translation": "năng lượng",
+        "example": "Protect the energy for the future."
+      },
+      {
+        "word": "wildlife",
+        "translation": "động vật hoang dã",
+        "example": "Protect the wildlife for the future."
+      },
+      {
+        "word": "conservation",
+        "translation": "bảo tồn",
+        "example": "Protect the conservation for the future."
+      },
+      {
+        "word": "planet",
+        "translation": "hành tinh",
+        "example": "Protect the planet for the future."
+      },
+      {
+        "word": "earth",
+        "translation": "trái đất",
+        "example": "Protect the earth for the future."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=BfF6q1Wz1sE",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 44,
+    "topic": "Environment",
+    "vocabulary": [
+      {
+        "word": "tree",
+        "translation": "cây",
+        "example": "Protect the tree for the future."
+      },
+      {
+        "word": "air",
+        "translation": "không khí",
+        "example": "Protect the air for the future."
+      },
+      {
+        "word": "water",
+        "translation": "nước",
+        "example": "Protect the water for the future."
+      },
+      {
+        "word": "soil",
+        "translation": "đất",
+        "example": "Protect the soil for the future."
+      },
+      {
+        "word": "ecosystem",
+        "translation": "hệ sinh thái",
+        "example": "Protect the ecosystem for the future."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=BfF6q1Wz1sE",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 45,
+    "topic": "Environment",
+    "vocabulary": [
+      {
+        "word": "habitat",
+        "translation": "môi trường sống",
+        "example": "Protect the habitat for the future."
+      },
+      {
+        "word": "species",
+        "translation": "loài",
+        "example": "Protect the species for the future."
+      },
+      {
+        "word": "global",
+        "translation": "toàn cầu",
+        "example": "Protect the global for the future."
+      },
+      {
+        "word": "warming",
+        "translation": "sự nóng lên",
+        "example": "Protect the warming for the future."
+      },
+      {
+        "word": "sustainable",
+        "translation": "bền vững",
+        "example": "Protect the sustainable for the future."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=BfF6q1Wz1sE",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary."
+  },
+  {
+    "day": 46,
+    "topic": "Technology",
+    "vocabulary": [
+      {
+        "word": "computer",
+        "translation": "máy tính",
+        "example": "The computer is a common device."
+      },
+      {
+        "word": "smartphone",
+        "translation": "điện thoại thông minh",
+        "example": "The smartphone is a common device."
+      },
+      {
+        "word": "internet",
+        "translation": "mạng internet",
+        "example": "The internet is a common device."
+      },
+      {
+        "word": "email",
+        "translation": "thư điện tử",
+        "example": "The email is a common device."
+      },
+      {
+        "word": "software",
+        "translation": "phần mềm",
+        "example": "The software is a common device."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=CgG8iQ7pI-k",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 47,
+    "topic": "Technology",
+    "vocabulary": [
+      {
+        "word": "hardware",
+        "translation": "phần cứng",
+        "example": "The hardware is a common device."
+      },
+      {
+        "word": "keyboard",
+        "translation": "bàn phím",
+        "example": "The keyboard is a common device."
+      },
+      {
+        "word": "screen",
+        "translation": "màn hình",
+        "example": "The screen is a common device."
+      },
+      {
+        "word": "mouse",
+        "translation": "chuột",
+        "example": "The mouse is a common device."
+      },
+      {
+        "word": "program",
+        "translation": "chương trình",
+        "example": "The program is a common device."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=CgG8iQ7pI-k",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 48,
+    "topic": "Technology",
+    "vocabulary": [
+      {
+        "word": "application",
+        "translation": "ứng dụng",
+        "example": "The application is a common device."
+      },
+      {
+        "word": "website",
+        "translation": "trang web",
+        "example": "The website is a common device."
+      },
+      {
+        "word": "network",
+        "translation": "mạng lưới",
+        "example": "The network is a common device."
+      },
+      {
+        "word": "password",
+        "translation": "mật khẩu",
+        "example": "The password is a common device."
+      },
+      {
+        "word": "data",
+        "translation": "dữ liệu",
+        "example": "The data is a common device."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=CgG8iQ7pI-k",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 49,
+    "topic": "Technology",
+    "vocabulary": [
+      {
+        "word": "cloud",
+        "translation": "đám mây",
+        "example": "The cloud is a common device."
+      },
+      {
+        "word": "digital",
+        "translation": "kỹ thuật số",
+        "example": "The digital is a common device."
+      },
+      {
+        "word": "device",
+        "translation": "thiết bị",
+        "example": "The device is a common device."
+      },
+      {
+        "word": "battery",
+        "translation": "pin",
+        "example": "The battery is a common device."
+      },
+      {
+        "word": "charger",
+        "translation": "bộ sạc",
+        "example": "The charger is a common device."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=CgG8iQ7pI-k",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 50,
+    "topic": "Technology",
+    "vocabulary": [
+      {
+        "word": "camera",
+        "translation": "máy ảnh",
+        "example": "The camera is a common device."
+      },
+      {
+        "word": "video",
+        "translation": "video",
+        "example": "The video is a common device."
+      },
+      {
+        "word": "audio",
+        "translation": "âm thanh",
+        "example": "The audio is a common device."
+      },
+      {
+        "word": "download",
+        "translation": "tải xuống",
+        "example": "The download is a common device."
+      },
+      {
+        "word": "upload",
+        "translation": "tải lên",
+        "example": "The upload is a common device."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=CgG8iQ7pI-k",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 51,
+    "topic": "Culture",
+    "vocabulary": [
+      {
+        "word": "tradition",
+        "translation": "truyền thống",
+        "example": "Tradition is part of our culture."
+      },
+      {
+        "word": "festival",
+        "translation": "lễ hội",
+        "example": "Festival is part of our culture."
+      },
+      {
+        "word": "music",
+        "translation": "âm nhạc",
+        "example": "Music is part of our culture."
+      },
+      {
+        "word": "art",
+        "translation": "nghệ thuật",
+        "example": "Art is part of our culture."
+      },
+      {
+        "word": "dance",
+        "translation": "múa",
+        "example": "Dance is part of our culture."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=DhH1k8yN2RM",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 52,
+    "topic": "Culture",
+    "vocabulary": [
+      {
+        "word": "language",
+        "translation": "ngôn ngữ",
+        "example": "Language is part of our culture."
+      },
+      {
+        "word": "custom",
+        "translation": "phong tục",
+        "example": "Custom is part of our culture."
+      },
+      {
+        "word": "cuisine",
+        "translation": "ẩm thực",
+        "example": "Cuisine is part of our culture."
+      },
+      {
+        "word": "heritage",
+        "translation": "di sản",
+        "example": "Heritage is part of our culture."
+      },
+      {
+        "word": "history",
+        "translation": "lịch sử",
+        "example": "History is part of our culture."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=DhH1k8yN2RM",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 53,
+    "topic": "Culture",
+    "vocabulary": [
+      {
+        "word": "literature",
+        "translation": "văn học",
+        "example": "Literature is part of our culture."
+      },
+      {
+        "word": "religion",
+        "translation": "tôn giáo",
+        "example": "Religion is part of our culture."
+      },
+      {
+        "word": "costume",
+        "translation": "trang phục",
+        "example": "Costume is part of our culture."
+      },
+      {
+        "word": "celebration",
+        "translation": "lễ kỷ niệm",
+        "example": "Celebration is part of our culture."
+      },
+      {
+        "word": "ceremony",
+        "translation": "nghi lễ",
+        "example": "Ceremony is part of our culture."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=DhH1k8yN2RM",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 54,
+    "topic": "Culture",
+    "vocabulary": [
+      {
+        "word": "belief",
+        "translation": "niềm tin",
+        "example": "Belief is part of our culture."
+      },
+      {
+        "word": "community",
+        "translation": "cộng đồng",
+        "example": "Community is part of our culture."
+      },
+      {
+        "word": "folklore",
+        "translation": "văn hóa dân gian",
+        "example": "Folklore is part of our culture."
+      },
+      {
+        "word": "myth",
+        "translation": "thần thoại",
+        "example": "Myth is part of our culture."
+      },
+      {
+        "word": "theater",
+        "translation": "nhà hát",
+        "example": "Theater is part of our culture."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=DhH1k8yN2RM",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 55,
+    "topic": "Culture",
+    "vocabulary": [
+      {
+        "word": "sculpture",
+        "translation": "điêu khắc",
+        "example": "Sculpture is part of our culture."
+      },
+      {
+        "word": "museum",
+        "translation": "bảo tàng",
+        "example": "Museum is part of our culture."
+      },
+      {
+        "word": "poetry",
+        "translation": "thơ ca",
+        "example": "Poetry is part of our culture."
+      },
+      {
+        "word": "architecture",
+        "translation": "kiến trúc",
+        "example": "Architecture is part of our culture."
+      },
+      {
+        "word": "symbol",
+        "translation": "biểu tượng",
+        "example": "Symbol is part of our culture."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=DhH1k8yN2RM",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 56,
+    "topic": "Weather",
+    "vocabulary": [
+      {
+        "word": "sun",
+        "translation": "mặt trời",
+        "example": "Today the sun is strong."
+      },
+      {
+        "word": "rain",
+        "translation": "mưa",
+        "example": "Today the rain is strong."
+      },
+      {
+        "word": "cloud",
+        "translation": "mây",
+        "example": "Today the cloud is strong."
+      },
+      {
+        "word": "wind",
+        "translation": "gió",
+        "example": "Today the wind is strong."
+      },
+      {
+        "word": "storm",
+        "translation": "bão",
+        "example": "Today the storm is strong."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=EkK2t9xLzVU",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 57,
+    "topic": "Weather",
+    "vocabulary": [
+      {
+        "word": "snow",
+        "translation": "tuyết",
+        "example": "Today the snow is strong."
+      },
+      {
+        "word": "temperature",
+        "translation": "nhiệt độ",
+        "example": "Today the temperature is strong."
+      },
+      {
+        "word": "forecast",
+        "translation": "dự báo",
+        "example": "Today the forecast is strong."
+      },
+      {
+        "word": "season",
+        "translation": "mùa",
+        "example": "Today the season is strong."
+      },
+      {
+        "word": "summer",
+        "translation": "mùa hè",
+        "example": "Today the summer is strong."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=EkK2t9xLzVU",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 58,
+    "topic": "Weather",
+    "vocabulary": [
+      {
+        "word": "winter",
+        "translation": "mùa đông",
+        "example": "Today the winter is strong."
+      },
+      {
+        "word": "spring",
+        "translation": "mùa xuân",
+        "example": "Today the spring is strong."
+      },
+      {
+        "word": "autumn",
+        "translation": "mùa thu",
+        "example": "Today the autumn is strong."
+      },
+      {
+        "word": "climate",
+        "translation": "khí hậu",
+        "example": "Today the climate is strong."
+      },
+      {
+        "word": "humidity",
+        "translation": "độ ẩm",
+        "example": "Today the humidity is strong."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=EkK2t9xLzVU",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 59,
+    "topic": "Weather",
+    "vocabulary": [
+      {
+        "word": "thunder",
+        "translation": "sấm",
+        "example": "Today the thunder is strong."
+      },
+      {
+        "word": "lightning",
+        "translation": "tia chớp",
+        "example": "Today the lightning is strong."
+      },
+      {
+        "word": "hail",
+        "translation": "mưa đá",
+        "example": "Today the hail is strong."
+      },
+      {
+        "word": "breeze",
+        "translation": "gió nhẹ",
+        "example": "Today the breeze is strong."
+      },
+      {
+        "word": "fog",
+        "translation": "sương mù",
+        "example": "Today the fog is strong."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=EkK2t9xLzVU",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 60,
+    "topic": "Weather",
+    "vocabulary": [
+      {
+        "word": "drought",
+        "translation": "hạn hán",
+        "example": "Today the drought is strong."
+      },
+      {
+        "word": "flood",
+        "translation": "lũ lụt",
+        "example": "Today the flood is strong."
+      },
+      {
+        "word": "rainbow",
+        "translation": "cầu vồng",
+        "example": "Today the rainbow is strong."
+      },
+      {
+        "word": "sunshine",
+        "translation": "ánh nắng",
+        "example": "Today the sunshine is strong."
+      },
+      {
+        "word": "frost",
+        "translation": "sương giá",
+        "example": "Today the frost is strong."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=EkK2t9xLzVU",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 61,
+    "topic": "Sports",
+    "vocabulary": [
+      {
+        "word": "soccer",
+        "translation": "bóng đá",
+        "example": "Soccer is a popular sport."
+      },
+      {
+        "word": "basketball",
+        "translation": "bóng rổ",
+        "example": "Basketball is a popular sport."
+      },
+      {
+        "word": "tennis",
+        "translation": "quần vợt",
+        "example": "Tennis is a popular sport."
+      },
+      {
+        "word": "baseball",
+        "translation": "bóng chày",
+        "example": "Baseball is a popular sport."
+      },
+      {
+        "word": "volleyball",
+        "translation": "bóng chuyền",
+        "example": "Volleyball is a popular sport."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=FlL3e1M3pYQ",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 62,
+    "topic": "Sports",
+    "vocabulary": [
+      {
+        "word": "golf",
+        "translation": "gôn",
+        "example": "Golf is a popular sport."
+      },
+      {
+        "word": "running",
+        "translation": "chạy bộ",
+        "example": "Running is a popular sport."
+      },
+      {
+        "word": "swimming",
+        "translation": "bơi lội",
+        "example": "Swimming is a popular sport."
+      },
+      {
+        "word": "cycling",
+        "translation": "đạp xe",
+        "example": "Cycling is a popular sport."
+      },
+      {
+        "word": "boxing",
+        "translation": "đấm bốc",
+        "example": "Boxing is a popular sport."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=FlL3e1M3pYQ",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 63,
+    "topic": "Sports",
+    "vocabulary": [
+      {
+        "word": "stadium",
+        "translation": "sân vận động",
+        "example": "Stadium is a popular sport."
+      },
+      {
+        "word": "coach",
+        "translation": "huấn luyện viên",
+        "example": "Coach is a popular sport."
+      },
+      {
+        "word": "player",
+        "translation": "cầu thủ",
+        "example": "Player is a popular sport."
+      },
+      {
+        "word": "team",
+        "translation": "đội",
+        "example": "Team is a popular sport."
+      },
+      {
+        "word": "match",
+        "translation": "trận đấu",
+        "example": "Match is a popular sport."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=FlL3e1M3pYQ",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 64,
+    "topic": "Sports",
+    "vocabulary": [
+      {
+        "word": "referee",
+        "translation": "trọng tài",
+        "example": "Referee is a popular sport."
+      },
+      {
+        "word": "score",
+        "translation": "tỷ số",
+        "example": "Score is a popular sport."
+      },
+      {
+        "word": "goal",
+        "translation": "bàn thắng",
+        "example": "Goal is a popular sport."
+      },
+      {
+        "word": "medal",
+        "translation": "huy chương",
+        "example": "Medal is a popular sport."
+      },
+      {
+        "word": "athlete",
+        "translation": "vận động viên",
+        "example": "Athlete is a popular sport."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=FlL3e1M3pYQ",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 65,
+    "topic": "Sports",
+    "vocabulary": [
+      {
+        "word": "training",
+        "translation": "luyện tập",
+        "example": "Training is a popular sport."
+      },
+      {
+        "word": "competition",
+        "translation": "thi đấu",
+        "example": "Competition is a popular sport."
+      },
+      {
+        "word": "victory",
+        "translation": "chiến thắng",
+        "example": "Victory is a popular sport."
+      },
+      {
+        "word": "defeat",
+        "translation": "thất bại",
+        "example": "Defeat is a popular sport."
+      },
+      {
+        "word": "league",
+        "translation": "giải đấu",
+        "example": "League is a popular sport."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=FlL3e1M3pYQ",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 66,
+    "topic": "Home",
+    "vocabulary": [
+      {
+        "word": "house",
+        "translation": "ngôi nhà",
+        "example": "The house is in my house."
+      },
+      {
+        "word": "apartment",
+        "translation": "căn hộ",
+        "example": "The apartment is in my house."
+      },
+      {
+        "word": "kitchen",
+        "translation": "nhà bếp",
+        "example": "The kitchen is in my house."
+      },
+      {
+        "word": "bathroom",
+        "translation": "phòng tắm",
+        "example": "The bathroom is in my house."
+      },
+      {
+        "word": "bedroom",
+        "translation": "phòng ngủ",
+        "example": "The bedroom is in my house."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=GmM4f2N5r5s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 67,
+    "topic": "Home",
+    "vocabulary": [
+      {
+        "word": "livingroom",
+        "translation": "phòng khách",
+        "example": "The livingroom is in my house."
+      },
+      {
+        "word": "window",
+        "translation": "cửa sổ",
+        "example": "The window is in my house."
+      },
+      {
+        "word": "door",
+        "translation": "cửa",
+        "example": "The door is in my house."
+      },
+      {
+        "word": "furniture",
+        "translation": "đồ nội thất",
+        "example": "The furniture is in my house."
+      },
+      {
+        "word": "sofa",
+        "translation": "ghế sofa",
+        "example": "The sofa is in my house."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=GmM4f2N5r5s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 68,
+    "topic": "Home",
+    "vocabulary": [
+      {
+        "word": "bed",
+        "translation": "giường",
+        "example": "The bed is in my house."
+      },
+      {
+        "word": "table",
+        "translation": "bàn",
+        "example": "The table is in my house."
+      },
+      {
+        "word": "chair",
+        "translation": "ghế",
+        "example": "The chair is in my house."
+      },
+      {
+        "word": "lamp",
+        "translation": "đèn",
+        "example": "The lamp is in my house."
+      },
+      {
+        "word": "floor",
+        "translation": "sàn",
+        "example": "The floor is in my house."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=GmM4f2N5r5s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 69,
+    "topic": "Home",
+    "vocabulary": [
+      {
+        "word": "ceiling",
+        "translation": "trần nhà",
+        "example": "The ceiling is in my house."
+      },
+      {
+        "word": "wall",
+        "translation": "tường",
+        "example": "The wall is in my house."
+      },
+      {
+        "word": "garden",
+        "translation": "vườn",
+        "example": "The garden is in my house."
+      },
+      {
+        "word": "garage",
+        "translation": "ga ra",
+        "example": "The garage is in my house."
+      },
+      {
+        "word": "roof",
+        "translation": "mái nhà",
+        "example": "The roof is in my house."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=GmM4f2N5r5s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 70,
+    "topic": "Home",
+    "vocabulary": [
+      {
+        "word": "yard",
+        "translation": "sân",
+        "example": "The yard is in my house."
+      },
+      {
+        "word": "fence",
+        "translation": "hàng rào",
+        "example": "The fence is in my house."
+      },
+      {
+        "word": "hallway",
+        "translation": "hành lang",
+        "example": "The hallway is in my house."
+      },
+      {
+        "word": "stairs",
+        "translation": "cầu thang",
+        "example": "The stairs is in my house."
+      },
+      {
+        "word": "basement",
+        "translation": "tầng hầm",
+        "example": "The basement is in my house."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=GmM4f2N5r5s",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 71,
+    "topic": "Transportation",
+    "vocabulary": [
+      {
+        "word": "road",
+        "translation": "con đường",
+        "example": "The road is on the road."
+      },
+      {
+        "word": "street",
+        "translation": "đường phố",
+        "example": "The street is on the road."
+      },
+      {
+        "word": "highway",
+        "translation": "cao tốc",
+        "example": "The highway is on the road."
+      },
+      {
+        "word": "traffic",
+        "translation": "giao thông",
+        "example": "The traffic is on the road."
+      },
+      {
+        "word": "lane",
+        "translation": "làn đường",
+        "example": "The lane is on the road."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=HnN5g3O6t6U",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 72,
+    "topic": "Transportation",
+    "vocabulary": [
+      {
+        "word": "bike",
+        "translation": "xe đạp",
+        "example": "The bike is on the road."
+      },
+      {
+        "word": "car",
+        "translation": "xe hơi",
+        "example": "The car is on the road."
+      },
+      {
+        "word": "bus",
+        "translation": "xe buýt",
+        "example": "The bus is on the road."
+      },
+      {
+        "word": "train",
+        "translation": "tàu hỏa",
+        "example": "The train is on the road."
+      },
+      {
+        "word": "subway",
+        "translation": "tàu điện ngầm",
+        "example": "The subway is on the road."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=HnN5g3O6t6U",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 73,
+    "topic": "Transportation",
+    "vocabulary": [
+      {
+        "word": "station",
+        "translation": "ga",
+        "example": "The station is on the road."
+      },
+      {
+        "word": "stop",
+        "translation": "điểm dừng",
+        "example": "The stop is on the road."
+      },
+      {
+        "word": "ticket",
+        "translation": "vé",
+        "example": "The ticket is on the road."
+      },
+      {
+        "word": "fare",
+        "translation": "tiền vé",
+        "example": "The fare is on the road."
+      },
+      {
+        "word": "driver",
+        "translation": "tài xế",
+        "example": "The driver is on the road."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=HnN5g3O6t6U",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 74,
+    "topic": "Transportation",
+    "vocabulary": [
+      {
+        "word": "passenger",
+        "translation": "hành khách",
+        "example": "The passenger is on the road."
+      },
+      {
+        "word": "route",
+        "translation": "tuyến đường",
+        "example": "The route is on the road."
+      },
+      {
+        "word": "schedule",
+        "translation": "lịch trình",
+        "example": "The schedule is on the road."
+      },
+      {
+        "word": "taxi",
+        "translation": "xe taxi",
+        "example": "The taxi is on the road."
+      },
+      {
+        "word": "parking",
+        "translation": "bãi đậu xe",
+        "example": "The parking is on the road."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=HnN5g3O6t6U",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 75,
+    "topic": "Transportation",
+    "vocabulary": [
+      {
+        "word": "bridge",
+        "translation": "cầu",
+        "example": "The bridge is on the road."
+      },
+      {
+        "word": "tunnel",
+        "translation": "đường hầm",
+        "example": "The tunnel is on the road."
+      },
+      {
+        "word": "ferry",
+        "translation": "phà",
+        "example": "The ferry is on the road."
+      },
+      {
+        "word": "airport",
+        "translation": "sân bay",
+        "example": "The airport is on the road."
+      },
+      {
+        "word": "vehicle",
+        "translation": "phương tiện",
+        "example": "The vehicle is on the road."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=HnN5g3O6t6U",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 76,
+    "topic": "Nature",
+    "vocabulary": [
+      {
+        "word": "tree",
+        "translation": "cây",
+        "example": "The tree is in nature."
+      },
+      {
+        "word": "flower",
+        "translation": "hoa",
+        "example": "The flower is in nature."
+      },
+      {
+        "word": "grass",
+        "translation": "cỏ",
+        "example": "The grass is in nature."
+      },
+      {
+        "word": "leaf",
+        "translation": "lá",
+        "example": "The leaf is in nature."
+      },
+      {
+        "word": "seed",
+        "translation": "hạt",
+        "example": "The seed is in nature."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=IpO6h4P7u7Y",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 77,
+    "topic": "Nature",
+    "vocabulary": [
+      {
+        "word": "root",
+        "translation": "rễ",
+        "example": "The root is in nature."
+      },
+      {
+        "word": "soil",
+        "translation": "đất",
+        "example": "The soil is in nature."
+      },
+      {
+        "word": "rock",
+        "translation": "đá",
+        "example": "The rock is in nature."
+      },
+      {
+        "word": "river",
+        "translation": "sông",
+        "example": "The river is in nature."
+      },
+      {
+        "word": "lake",
+        "translation": "hồ",
+        "example": "The lake is in nature."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=IpO6h4P7u7Y",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 78,
+    "topic": "Nature",
+    "vocabulary": [
+      {
+        "word": "mountain",
+        "translation": "núi",
+        "example": "The mountain is in nature."
+      },
+      {
+        "word": "valley",
+        "translation": "thung lũng",
+        "example": "The valley is in nature."
+      },
+      {
+        "word": "forest",
+        "translation": "rừng",
+        "example": "The forest is in nature."
+      },
+      {
+        "word": "desert",
+        "translation": "sa mạc",
+        "example": "The desert is in nature."
+      },
+      {
+        "word": "beach",
+        "translation": "bãi biển",
+        "example": "The beach is in nature."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=IpO6h4P7u7Y",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 79,
+    "topic": "Nature",
+    "vocabulary": [
+      {
+        "word": "island",
+        "translation": "đảo",
+        "example": "The island is in nature."
+      },
+      {
+        "word": "ocean",
+        "translation": "đại dương",
+        "example": "The ocean is in nature."
+      },
+      {
+        "word": "sky",
+        "translation": "bầu trời",
+        "example": "The sky is in nature."
+      },
+      {
+        "word": "star",
+        "translation": "ngôi sao",
+        "example": "The star is in nature."
+      },
+      {
+        "word": "moon",
+        "translation": "mặt trăng",
+        "example": "The moon is in nature."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=IpO6h4P7u7Y",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 80,
+    "topic": "Nature",
+    "vocabulary": [
+      {
+        "word": "sun",
+        "translation": "mặt trời",
+        "example": "The sun is in nature."
+      },
+      {
+        "word": "cloud",
+        "translation": "mây",
+        "example": "The cloud is in nature."
+      },
+      {
+        "word": "rain",
+        "translation": "mưa",
+        "example": "The rain is in nature."
+      },
+      {
+        "word": "wind",
+        "translation": "gió",
+        "example": "The wind is in nature."
+      },
+      {
+        "word": "animal",
+        "translation": "động vật",
+        "example": "The animal is in nature."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=IpO6h4P7u7Y",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 81,
+    "topic": "Time",
+    "vocabulary": [
+      {
+        "word": "morning",
+        "translation": "buổi sáng",
+        "example": "Morning passes quickly."
+      },
+      {
+        "word": "afternoon",
+        "translation": "buổi chiều",
+        "example": "Afternoon passes quickly."
+      },
+      {
+        "word": "evening",
+        "translation": "buổi tối",
+        "example": "Evening passes quickly."
+      },
+      {
+        "word": "night",
+        "translation": "ban đêm",
+        "example": "Night passes quickly."
+      },
+      {
+        "word": "day",
+        "translation": "ngày",
+        "example": "Day passes quickly."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=JqP7i5Q8v8Z",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 82,
+    "topic": "Time",
+    "vocabulary": [
+      {
+        "word": "week",
+        "translation": "tuần",
+        "example": "Week passes quickly."
+      },
+      {
+        "word": "month",
+        "translation": "tháng",
+        "example": "Month passes quickly."
+      },
+      {
+        "word": "year",
+        "translation": "năm",
+        "example": "Year passes quickly."
+      },
+      {
+        "word": "today",
+        "translation": "hôm nay",
+        "example": "Today passes quickly."
+      },
+      {
+        "word": "tomorrow",
+        "translation": "ngày mai",
+        "example": "Tomorrow passes quickly."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=JqP7i5Q8v8Z",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 83,
+    "topic": "Time",
+    "vocabulary": [
+      {
+        "word": "yesterday",
+        "translation": "hôm qua",
+        "example": "Yesterday passes quickly."
+      },
+      {
+        "word": "calendar",
+        "translation": "lịch",
+        "example": "Calendar passes quickly."
+      },
+      {
+        "word": "clock",
+        "translation": "đồng hồ",
+        "example": "Clock passes quickly."
+      },
+      {
+        "word": "minute",
+        "translation": "phút",
+        "example": "Minute passes quickly."
+      },
+      {
+        "word": "hour",
+        "translation": "giờ",
+        "example": "Hour passes quickly."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=JqP7i5Q8v8Z",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 84,
+    "topic": "Time",
+    "vocabulary": [
+      {
+        "word": "second",
+        "translation": "giây",
+        "example": "Second passes quickly."
+      },
+      {
+        "word": "schedule",
+        "translation": "lịch trình",
+        "example": "Schedule passes quickly."
+      },
+      {
+        "word": "deadline",
+        "translation": "hạn chót",
+        "example": "Deadline passes quickly."
+      },
+      {
+        "word": "past",
+        "translation": "quá khứ",
+        "example": "Past passes quickly."
+      },
+      {
+        "word": "present",
+        "translation": "hiện tại",
+        "example": "Present passes quickly."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=JqP7i5Q8v8Z",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 85,
+    "topic": "Time",
+    "vocabulary": [
+      {
+        "word": "future",
+        "translation": "tương lai",
+        "example": "Future passes quickly."
+      },
+      {
+        "word": "soon",
+        "translation": "sớm",
+        "example": "Soon passes quickly."
+      },
+      {
+        "word": "late",
+        "translation": "muộn",
+        "example": "Late passes quickly."
+      },
+      {
+        "word": "early",
+        "translation": "sớm",
+        "example": "Early passes quickly."
+      },
+      {
+        "word": "season",
+        "translation": "mùa",
+        "example": "Season passes quickly."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=JqP7i5Q8v8Z",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 86,
+    "topic": "Emotions",
+    "vocabulary": [
+      {
+        "word": "happy",
+        "translation": "hạnh phúc",
+        "example": "Sometimes I feel happy."
+      },
+      {
+        "word": "sad",
+        "translation": "buồn",
+        "example": "Sometimes I feel sad."
+      },
+      {
+        "word": "angry",
+        "translation": "tức giận",
+        "example": "Sometimes I feel angry."
+      },
+      {
+        "word": "afraid",
+        "translation": "sợ hãi",
+        "example": "Sometimes I feel afraid."
+      },
+      {
+        "word": "surprised",
+        "translation": "ngạc nhiên",
+        "example": "Sometimes I feel surprised."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=KrQ8j6R9w9A",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 87,
+    "topic": "Emotions",
+    "vocabulary": [
+      {
+        "word": "tired",
+        "translation": "mệt mỏi",
+        "example": "Sometimes I feel tired."
+      },
+      {
+        "word": "excited",
+        "translation": "háo hức",
+        "example": "Sometimes I feel excited."
+      },
+      {
+        "word": "bored",
+        "translation": "chán",
+        "example": "Sometimes I feel bored."
+      },
+      {
+        "word": "nervous",
+        "translation": "lo lắng",
+        "example": "Sometimes I feel nervous."
+      },
+      {
+        "word": "calm",
+        "translation": "bình tĩnh",
+        "example": "Sometimes I feel calm."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=KrQ8j6R9w9A",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 88,
+    "topic": "Emotions",
+    "vocabulary": [
+      {
+        "word": "proud",
+        "translation": "tự hào",
+        "example": "Sometimes I feel proud."
+      },
+      {
+        "word": "ashamed",
+        "translation": "xấu hổ",
+        "example": "Sometimes I feel ashamed."
+      },
+      {
+        "word": "worried",
+        "translation": "lo âu",
+        "example": "Sometimes I feel worried."
+      },
+      {
+        "word": "hopeful",
+        "translation": "hy vọng",
+        "example": "Sometimes I feel hopeful."
+      },
+      {
+        "word": "lonely",
+        "translation": "cô đơn",
+        "example": "Sometimes I feel lonely."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=KrQ8j6R9w9A",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 89,
+    "topic": "Emotions",
+    "vocabulary": [
+      {
+        "word": "relaxed",
+        "translation": "thư giãn",
+        "example": "Sometimes I feel relaxed."
+      },
+      {
+        "word": "scared",
+        "translation": "sợ",
+        "example": "Sometimes I feel scared."
+      },
+      {
+        "word": "jealous",
+        "translation": "ghen tị",
+        "example": "Sometimes I feel jealous."
+      },
+      {
+        "word": "grateful",
+        "translation": "biết ơn",
+        "example": "Sometimes I feel grateful."
+      },
+      {
+        "word": "hungry",
+        "translation": "đói",
+        "example": "Sometimes I feel hungry."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=KrQ8j6R9w9A",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  },
+  {
+    "day": 90,
+    "topic": "Emotions",
+    "vocabulary": [
+      {
+        "word": "thirsty",
+        "translation": "khát",
+        "example": "Sometimes I feel thirsty."
+      },
+      {
+        "word": "satisfied",
+        "translation": "hài lòng",
+        "example": "Sometimes I feel satisfied."
+      },
+      {
+        "word": "frustrated",
+        "translation": "bực bội",
+        "example": "Sometimes I feel frustrated."
+      },
+      {
+        "word": "curious",
+        "translation": "tò mò",
+        "example": "Sometimes I feel curious."
+      },
+      {
+        "word": "confident",
+        "translation": "tự tin",
+        "example": "Sometimes I feel confident."
+      }
+    ],
+    "video": "https://www.youtube.com/watch?v=KrQ8j6R9w9A",
+    "speaking": "Shadow the video and talk about the topic for 5 sentences.",
+    "writing": "Write 3-5 sentences about your day using today's vocabulary.",
+    "ielts": "Do one IELTS practice task (listening or reading) from Cambridge book."
+  }
+]
